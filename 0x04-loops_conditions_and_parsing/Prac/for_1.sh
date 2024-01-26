@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # for loop
 
-for (( i=0; i<5; i++))
+for (( i=0; i<5; i++ ))
 do
-    echo $i
+    echo "School"
 done
