@@ -10,4 +10,6 @@ Learning objectives are:
 ## Tasks
 0. What is my PID
 A bash script that displays its own PID.
+0. List your processes
+A bash script that displays a list of currently running processes.
 
