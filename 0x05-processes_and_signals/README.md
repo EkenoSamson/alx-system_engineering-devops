@@ -12,4 +12,5 @@ Learning objectives are:
 A bash script that displays its own PID.
 0. List your processes
 A bash script that displays a list of currently running processes.
-
+0. Show your bash PID
+Display line containg ```bash``` word.
