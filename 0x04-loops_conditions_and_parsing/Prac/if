@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Introducing if statement
+
+num=200
+if [ $num -eq 200 ]
+then
+	echo "The condition is true."
+else
+	echo "the variable does not equal to 200."
+fi
