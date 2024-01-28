@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Display content of a file
+
+cut -d ":" -f 1,3,6 /etc/passwd
